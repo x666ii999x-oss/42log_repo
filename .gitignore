@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+*.old
+*.backup_*
+*.tar.gz
+*.zip
+banner.py.final
+.DS_Store
